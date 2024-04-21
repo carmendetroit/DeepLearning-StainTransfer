@@ -32,7 +32,7 @@ You could see the other options with ```python fid_kid_ssim.py --help```.
 The model needed to generate stained images is available under the checkpoints folder.
 
 ##### DCLGAN
-You can access the model's weights via this [link](https://dataset-49t.s3.amazonaws.com/checkpoints.zip). It is located in the 'run_50' folder.
+You can download the model's weights via this [link](https://dataset-49t.s3.amazonaws.com/checkpoints.zip). It is located in the 'run_50' folder.
 
 ##### CUTGAN
 ...
