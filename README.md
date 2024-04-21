@@ -26,4 +26,14 @@ After putting the correct directories, you could run by ```python fid_kid_ssim.p
 You could see the other options with ```python fid_kid_ssim.py --help```.
 
 
+### Weights of the Trained Models
+
+##### CycleGAN
+The model needed to generate stained images is available under the checkpoints folder.
+
+##### DCLGAN
+You can access the model's weights via this [link](https://dataset-49t.s3.amazonaws.com/checkpoints.zip). It is located in the 'run_50' folder.
+
+##### CUTGAN
+...
 
