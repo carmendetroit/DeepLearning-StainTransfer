@@ -1,4 +1,4 @@
-### Installation
+### Installation and Train
 
 - Clone the CycleGAN repo:
 We used the pytorch implementation.
